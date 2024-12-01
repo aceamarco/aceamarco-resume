@@ -75,8 +75,7 @@
             "highlights": [
                 "Enhance and maintain the {SSOX <GO>} application on the Bloomberg Terminal, enabling seamless negotiation and execution of thousands of sell-side fixed-income trades daily."
             ]
-        }
-        ,
+        },
         {
             "company" : "Boeing",
             "position" : "Software Engineer",
@@ -86,7 +85,7 @@
                 "Developed automated UI integration tests using Selenium for web applications which significantly improved code base test coverage",
                 "Developed Virtual Machine devices for the High Fidelity Digital Twin Program"
             ]
-        },,
+        },
         {
             "company" : "Intuit",
             "position" : "Software Engineering Intern",
